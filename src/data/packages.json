@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Romantic Getaway",
+    "destinationId": 4,
+    "destination": "Santorini, Greece",
+    "price": 1650,
+    "duration": "5 days",
+    "category": "Romance",
+    "image": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Perfect honeymoon package with sunset views and wine tasting"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Trek",
+    "destinationId": 5,
+    "destination": "Machu Picchu, Peru",
+    "price": 1950,
+    "duration": "8 days",
+    "category": "Adventure",
+    "image": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Challenging Inca Trail trek with expert guides"
+  },
+  {
+    "id": 3,
+    "name": "Beach Paradise",
+    "destinationId": 1,
+    "destination": "Bali, Indonesia",
+    "price": 1200,
+    "duration": "7 days",
+    "category": "Beach",
+    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Relaxing beach vacation with spa treatments included"
+  },
+  {
+    "id": 4,
+    "name": "City Explorer",
+    "destinationId": 2,
+    "destination": "Paris, France",
+    "price": 2100,
+    "duration": "5 days",
+    "category": "City",
+    "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Complete Paris experience with museum passes and gourmet dining"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Resort",
+    "destinationId": 8,
+    "destination": "Maldives",
+    "price": 3200,
+    "duration": "7 days",
+    "category": "Luxury",
+    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "All-inclusive luxury resort with overwater villa"
+  },
+  {
+    "id": 6,
+    "name": "Wildlife Safari",
+    "destinationId": 9,
+    "destination": "Kenya",
+    "price": 2800,
+    "duration": "9 days",
+    "category": "Adventure",
+    "image": "https://images.pexels.com/photos/16119792/pexels-photo-16119792.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Amazing wildlife safari with professional photography guides"
+  }
+]

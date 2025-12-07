@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Bali, Indonesia",
+    "location": "Southeast Asia",
+    "country": "Indonesia",
+    "category": "Beach",
+    "price": 1200,
+    "rating": 4.8,
+    "reviews": 1543,
+    "image": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Experience the magic of Bali with pristine beaches, ancient temples, and lush rice terraces. This tropical paradise offers the perfect blend of relaxation and adventure.",
+    "highlights": [
+      "Visit ancient temples like Tanah Lot",
+      "Surf world-class waves at Uluwatu",
+      "Explore terraced rice paddies in Ubud",
+      "Relax on stunning beaches",
+      "Experience traditional Balinese culture"
+    ],
+    "duration": "7 days",
+    "includes": ["Accommodation", "Daily breakfast", "Airport transfers", "Guided tours"]
+  },
+  {
+    "id": 2,
+    "name": "Paris, France",
+    "location": "Western Europe",
+    "country": "France",
+    "category": "City",
+    "price": 2100,
+    "rating": 4.9,
+    "reviews": 2876,
+    "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Discover the City of Light with its iconic landmarks, world-class museums, and exquisite cuisine. Paris promises romance, culture, and unforgettable memories.",
+    "highlights": [
+      "Visit the Eiffel Tower and Louvre Museum",
+      "Stroll along the Champs-Élysées",
+      "Explore Montmartre and Sacré-Cœur",
+      "Cruise the Seine River",
+      "Enjoy authentic French cuisine"
+    ],
+    "duration": "5 days",
+    "includes": ["Accommodation", "City pass", "Airport transfers", "Seine river cruise"]
+  },
+  {
+    "id": 3,
+    "name": "Tokyo, Japan",
+    "location": "East Asia",
+    "country": "Japan",
+    "category": "City",
+    "price": 1800,
+    "rating": 4.7,
+    "reviews": 1987,
+    "image": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Immerse yourself in the perfect blend of ancient tradition and cutting-edge technology. Tokyo offers incredible food, stunning temples, and vibrant city life.",
+    "highlights": [
+      "Visit historic temples and shrines",
+      "Experience the bustle of Shibuya Crossing",
+      "Enjoy authentic sushi at Tsukiji Market",
+      "Explore traditional gardens",
+      "Discover modern technology and anime culture"
+    ],
+    "duration": "6 days",
+    "includes": ["Accommodation", "JR Pass", "Airport transfers", "Cultural experiences"]
+  },
+  {
+    "id": 4,
+    "name": "Santorini, Greece",
+    "location": "Southern Europe",
+    "country": "Greece",
+    "category": "Beach",
+    "price": 1650,
+    "rating": 4.9,
+    "reviews": 2234,
+    "image": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Experience breathtaking sunsets over the Aegean Sea from whitewashed cliffs. Santorini is the ultimate romantic getaway with stunning views and rich history.",
+    "highlights": [
+      "Watch stunning sunsets in Oia",
+      "Explore volcanic beaches",
+      "Visit ancient ruins at Akrotiri",
+      "Wine tasting at local vineyards",
+      "Sail around the caldera"
+    ],
+    "duration": "5 days",
+    "includes": ["Accommodation", "Daily breakfast", "Ferry transfers", "Sunset cruise"]
+  },
+  {
+    "id": 5,
+    "name": "Machu Picchu, Peru",
+    "location": "South America",
+    "country": "Peru",
+    "category": "Adventure",
+    "price": 1950,
+    "rating": 4.8,
+    "reviews": 1654,
+    "image": "https://images.pexels.com/photos/2356045/pexels-photo-2356045.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Journey to the ancient Incan citadel perched high in the Andes Mountains. This UNESCO World Heritage site offers incredible history and stunning mountain vistas.",
+    "highlights": [
+      "Explore the ancient Incan ruins",
+      "Hike the Inca Trail",
+      "Visit the Sacred Valley",
+      "Experience Cusco's colonial architecture",
+      "Learn about Incan history and culture"
+    ],
+    "duration": "8 days",
+    "includes": ["Accommodation", "All meals on trek", "Train tickets", "Expert guides", "Permits"]
+  },
+  {
+    "id": 6,
+    "name": "Dubai, UAE",
+    "location": "Middle East",
+    "country": "United Arab Emirates",
+    "category": "City",
+    "price": 1750,
+    "rating": 4.6,
+    "reviews": 1876,
+    "image": "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Experience luxury and innovation in this futuristic desert oasis. Dubai combines traditional Arabian culture with modern architectural marvels.",
+    "highlights": [
+      "Visit Burj Khalifa, world's tallest building",
+      "Shop in luxury malls and traditional souks",
+      "Experience desert safari adventures",
+      "Relax on pristine beaches",
+      "Enjoy world-class dining and entertainment"
+    ],
+    "duration": "5 days",
+    "includes": ["Accommodation", "Daily breakfast", "Desert safari", "City tour", "Burj Khalifa tickets"]
+  },
+  {
+    "id": 7,
+    "name": "Iceland Northern Lights",
+    "location": "Northern Europe",
+    "country": "Iceland",
+    "category": "Adventure",
+    "price": 2250,
+    "rating": 4.9,
+    "reviews": 1432,
+    "image": "https://images.pexels.com/photos/1933316/pexels-photo-1933316.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Witness the magical Aurora Borealis and explore Iceland's otherworldly landscapes of glaciers, volcanoes, and geothermal wonders.",
+    "highlights": [
+      "Chase the Northern Lights",
+      "Bathe in the Blue Lagoon",
+      "Explore Golden Circle attractions",
+      "Visit black sand beaches",
+      "Discover ice caves and glaciers"
+    ],
+    "duration": "6 days",
+    "includes": ["Accommodation", "Daily breakfast", "Northern Lights tours", "Blue Lagoon entry", "4x4 vehicle"]
+  },
+  {
+    "id": 8,
+    "name": "Maldives Resort",
+    "location": "South Asia",
+    "country": "Maldives",
+    "category": "Beach",
+    "price": 3200,
+    "rating": 5.0,
+    "reviews": 987,
+    "image": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Escape to paradise with overwater bungalows, crystal-clear turquoise waters, and pristine coral reefs. The Maldives offers the ultimate luxury beach vacation.",
+    "highlights": [
+      "Stay in overwater villas",
+      "World-class snorkeling and diving",
+      "Private island experiences",
+      "Spa and wellness treatments",
+      "Romantic beach dinners"
+    ],
+    "duration": "7 days",
+    "includes": ["Luxury accommodation", "All-inclusive meals", "Seaplane transfers", "Water sports", "Spa treatments"]
+  },
+  {
+    "id": 9,
+    "name": "Safari in Kenya",
+    "location": "East Africa",
+    "country": "Kenya",
+    "category": "Adventure",
+    "price": 2800,
+    "rating": 4.8,
+    "reviews": 1234,
+    "image": "https://images.pexels.com/photos/16119792/pexels-photo-16119792.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Witness the Great Migration and encounter the Big Five on an unforgettable African safari adventure through Kenya's world-famous national parks.",
+    "highlights": [
+      "Game drives in Masai Mara",
+      "Witness the Great Migration",
+      "See the Big Five animals",
+      "Visit Maasai villages",
+      "Sundowner experiences in the savanna"
+    ],
+    "duration": "9 days",
+    "includes": ["Lodge accommodation", "All meals", "Game drives", "Park fees", "Expert safari guides"]
+  }
+]
